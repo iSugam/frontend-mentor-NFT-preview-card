@@ -19,7 +19,7 @@ body {
 
 /**************** Container Style ****************/
 .container {
-    width: 300px;
+    width: 360px;
     margin: auto;
     background-color: hsl(216, 50%, 16%);
     padding: 22px;
@@ -116,8 +116,9 @@ body {
     position: absolute;
     bottom: -24px;
     width: 100%;
-    height: 1px;
+    height: .5px;
     background-color: hsl(215, 51%, 70%);
+    opacity: 0.2;
 }
 
 .content-extra p {
@@ -128,6 +129,10 @@ body {
 
 .content-extra p:first-child {
     color: hsl(178, 100%, 50%);
+}
+
+.content-extra p:last-child {
+    color: hsl(215, 51%, 70%);
 }
 
 /****** Container AVATAR Section ******/
