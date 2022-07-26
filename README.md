@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution Repo]https://github.com/iSugam/frontend-mentor-NFT-preview-card)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution Repo](https://github.com/iSugam/frontend-mentor-NFT-preview-card)
+- Live Site URL: [Live Site](https://isugam.github.io/frontend-mentor-NFT-preview-card/)
 
 ## My process
 
