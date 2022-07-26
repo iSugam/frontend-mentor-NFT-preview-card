@@ -44,5 +44,5 @@ As it's still not pixel perfect, I am still going to develop till I can create p
 ## Author
 
 - Website - [Sugam Sahu](https://www.sugamsahu.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/iSugam)
+- Frontend Mentor - [@iSugam](https://www.frontendmentor.io/profile/iSugam)
 - LinkedIn - [sugam-sahu](https://www.linkedin.com/in/sugam-sahu/)
